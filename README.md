@@ -34,6 +34,8 @@ Start the development server
 npm run dev
 The project will run at: http://localhost:5173.
 ```
+
+```
 Project Structure
 E-COMMERCEWEBSITE/
 │
@@ -51,7 +53,7 @@ E-COMMERCEWEBSITE/
 ├─ eslint.config.js
 ├─ vite.config.js
 └─ README.md
-
+```
 ### Future Improvements
 Implement cart functionality with hooks or context
 
